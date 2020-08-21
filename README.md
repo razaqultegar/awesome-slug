@@ -1,2 +1,2 @@
-# awesome-slug
-🤩 Turn given awesome text to slug
+# simple-slug
+🛴 Turn given any text to simple slug
